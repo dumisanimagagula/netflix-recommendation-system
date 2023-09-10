@@ -1,5 +1,7 @@
 # Netflix Recommendation System
 
+![Netflix Recommendation System](https://img.shields.io/badge/Python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9%20%7C%203.10-blue)
+
 Welcome to the Netflix Recommendation System project! This Python project is perfect for aspiring data scientists and machine learning enthusiasts who want to build their own recommendation system for Netflix content.
 
 ## Table of Contents
